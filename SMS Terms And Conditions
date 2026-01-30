@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SMS Terms and Conditions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 2rem;
+            color: #333;
+        }
+        header {
+            background-color: #0056a6;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        footer {
+            margin-top: 2rem;
+            font-size: 0.9rem;
+            text-align: center;
+        }
+        a {
+            color: #0056a6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        h2 {
+            margin-top: 1.5rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>SMS Terms and Conditions</h1>
+</header>
+
+<main>
+    <p>
+        By opting in to receive SMS messages from Chris Hunter Insurance Agency, you agree to the terms outlined below.
+    </p>
+
+    <h2>SMS Consent Communication</h2>
+    <p>
+        Phone numbers collected as part of the SMS consent process are used solely for communication related to Chris Hunter Insurance Agency.
+        Phone numbers are not shared with third parties or affiliates for marketing purposes.
+    </p>
+
+    <h2>Types of SMS Communications</h2>
+    <p>
+        After providing consent, you may receive text messages related to the following:
+    </p>
+    <ul>
+        <li>Insurance policy updates</li>
+        <li>Payment and renewal reminders</li>
+        <li>Coverage changes or service notifications</li>
+        <li>Follow-up messages related to inquiries or requests</li>
+    </ul>
+
+    <h2>Message Frequency</h2>
+    <p>
+        Message frequency varies based on your account activity and communication needs.
+    </p>
+
+    <h2>Potential Fees for SMS Messaging</h2>
+    <p>
+        Message and data rates may apply. Fees depend on your mobile carrier and plan. Charges may vary for domestic or international messages.
+    </p>
+
+    <h2>Opt-In Method</h2>
+    <p>
+        Customers may opt in to receive SMS messages verbally during a phone call initiated through our website.
+        During the call, customers are asked:
+    </p>
+    <p>
+        “Do you agree to receive text messages from Chris Hunter Insurance Agency?
+        Message frequency varies. Message and data rates may apply.
+        Text HELP for help. Text STOP to opt out.
+        View our privacy policy and terms on our website.”
+    </p>
+    <p>
+        No SMS communication is initiated without customer consent.
+    </p>
+
+    <h2>Opt-Out</h2>
+    <p>
+        Customers may opt out of SMS messaging at any time by replying STOP to any received message.
+        Once opted out, no further SMS messages will be sent.
+        Customers may opt back in at any time by replying START.
+    </p>
+
+    <h2>Standard Messaging Disclosures</h2>
+    <ul>
+        <li>Message frequency varies.</li>
+        <li>Message and data rates may apply.</li>
+        <li>Text STOP to opt out at any time.</li>
+        <li>Text HELP for assistance.</li>
+    </ul>
+
+    <h2>Contact Information</h2>
+    <address>
+        Chris Hunter Insurance Agency<br>
+        1613 Rialto Way<br>
+        Justin, TX 76247<br>
+        Phone: (469) 242-1008<br>
+        Email: <a href="mailto:chunter3@farmersagent.com">chunter3@farmersagent.com</a>
+    </address>
+</main>
+
+<footer>
+    <p>© 2025 Chris Hunter Insurance Agency. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
